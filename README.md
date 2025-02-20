@@ -1,7 +1,7 @@
 - 👋 Hi, I’m !@Brian ototo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on varioud web development prohects with other web developers enthusiast
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on various web development projects with other web developers enthusiast
 - 📫 How to reach me 
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I am a self taught software developer
